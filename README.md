@@ -1,11 +1,11 @@
-# MultiFile-renomate.sh
+# MultiFiles-renomate.sh 
 
 renommage d'un ensemble de fichier
 
-$ sudo chmod o+x MultiFile-renomate.sh 
+$ sudo chmod o+x MultiFiles-renomate.sh 
 
-$ ./MultiFile-renomate.sh dcp photo dcp-*
+$ ./MultiFiles-renomate.sh dcp photo dcp-*
 
-$ ./MultiFile-renomate.sh 'htm $' 'html' *.html
+$ ./MultiFiles-renomate.sh 'htm $' 'html' *.html
 
-$ ./MultiFile-renomate.sh ' ' '_' *
+$ ./MultiFiles-renomate.sh ' ' '_' *
